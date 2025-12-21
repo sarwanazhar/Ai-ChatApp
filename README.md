@@ -556,7 +556,7 @@ This project is open source and available under the **MIT License**. Anyone is f
 **Sarwan Azhar** - Full Stack Developer
 - **GitHub**: [@sarwanazhar](https://github.com/sarwanazhar)
 - **Mobile Frontend**: https://github.com/sarwanazhar/chatappfrontend
-- **Backend**: Part of this repository
+- **Backend**: https://github.com/sarwanazhar/chatappbackend
 
 This project was developed as a comprehensive demonstration of:
 - Full-stack development skills
