@@ -1,10 +1,10 @@
-## for better details visit https://github.com/sarwanazhar/chatappbackend https://github.com/sarwanazhar/chatappfrontend and read each readme for more information about project
 
 > **Created by Sarwan Azhar**  
 > A full-stack real-time AI chat application with mobile frontend and Golang backend
 
 A complete, production-ready chat application that combines a modern React Native mobile frontend with a high-performance Golang backend. This application provides secure user authentication, real-time AI-powered conversations with Google Gemini, free internet search capabilities, and a beautifully designed mobile interface.
 
+## for better details visit https://github.com/sarwanazhar/chatappbackend https://github.com/sarwanazhar/chatappfrontend and read each readme for more information about project
 
 ## 📱 Project Overview
 
